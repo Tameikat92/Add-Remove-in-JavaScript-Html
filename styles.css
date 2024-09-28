@@ -1,0 +1,15 @@
+input{
+    
+    border-radius: 20px;
+    color: black;
+    
+};
+button{
+    border-radius: 10px;
+    color: aquamarine;
+}
+
+#addButton{
+    border-radius: 10px;
+    
+}
